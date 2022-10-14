@@ -28,7 +28,7 @@ import java.io.IOException;
  * Credentials to be used for the iShare client.
  */
 @ApiModel(description = "Credentials to be used for the iShare client.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:13.510252+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:54.296952+02:00[Europe/Berlin]")
 public class IShareCredentialsVO {
   public static final String SERIALIZED_NAME_CERTIFICATE_CHAIN = "certificateChain";
   @SerializedName(SERIALIZED_NAME_CERTIFICATE_CHAIN)

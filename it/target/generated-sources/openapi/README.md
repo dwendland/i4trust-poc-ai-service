@@ -2,7 +2,7 @@
 
 iShare Credentials Management API
 - API version: 0.0.1
-  - Build date: 2022-10-14T13:33:13.510252+02:00[Europe/Berlin]
+  - Build date: 2022-10-14T13:33:54.296952+02:00[Europe/Berlin]
 
 This spec provides the credentials management api for the iShare auth-provider.
 
