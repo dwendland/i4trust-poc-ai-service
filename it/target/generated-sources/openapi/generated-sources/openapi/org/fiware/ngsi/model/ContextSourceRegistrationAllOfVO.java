@@ -1,6 +1,6 @@
 package org.fiware.ngsi.model;
 
-@javax.annotation.processing.Generated(value = "org.openapitools.codegen.languages.MicronautCodegen", date = "2022-10-14T13:33:54.467100+02:00[Europe/Berlin]")
+@javax.annotation.processing.Generated(value = "org.openapitools.codegen.languages.MicronautCodegen", date = "2022-10-14T22:07:48.183710+02:00[Europe/Berlin]")
 @lombok.Generated
 @io.micronaut.core.annotation.Introspected
 public class ContextSourceRegistrationAllOfVO {

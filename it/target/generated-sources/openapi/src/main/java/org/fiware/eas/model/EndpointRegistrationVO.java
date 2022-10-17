@@ -30,7 +30,7 @@ import org.fiware.eas.model.AuthTypeVO;
  * Information about a Endpoint to be registered.
  */
 @ApiModel(description = "Information about a Endpoint to be registered.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:54.069821+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T22:07:47.821858+02:00[Europe/Berlin]")
 public class EndpointRegistrationVO {
   public static final String SERIALIZED_NAME_DOMAIN = "domain";
   @SerializedName(SERIALIZED_NAME_DOMAIN)

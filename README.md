@@ -26,7 +26,7 @@ The main goal of te subscription is to allow the automated data exchange between
 
 In this use case, there are three subscriptions to be setup: 
 
-* **Subscription 1:**  Smart Shepehrd Inc. subscribes to the Context Broker of Happy Cattle Co. to receive in an automated way animal coordinates update in its Context Broker by means of a Notification Proxy 
+* **Subscription 1:**  Smart Shepherd Inc. subscribes to the Context Broker of Happy Cattle Co. to receive in an automated way animal coordinates update in its Context Broker by means of a Notification Proxy 
 
 ```shell
    curl -v --location POST 'localhost:1029/ngsi-ld/v1/subscriptions/' \

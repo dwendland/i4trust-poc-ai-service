@@ -29,7 +29,7 @@ import org.fiware.eas.model.IShareCredentialsVO;
  * Type of the credentials to be used. Need to correspond with the authType.
  */
 @ApiModel(description = "Type of the credentials to be used. Need to correspond with the authType.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:54.069821+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T22:07:47.821858+02:00[Europe/Berlin]")
 public class AuthCredentialsVO {
   public static final String SERIALIZED_NAME_I_SHARE_CLIENT_ID = "iShareClientId";
   @SerializedName(SERIALIZED_NAME_I_SHARE_CLIENT_ID)

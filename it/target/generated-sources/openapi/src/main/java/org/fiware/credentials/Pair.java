@@ -13,7 +13,7 @@
 
 package org.fiware.credentials;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:54.296952+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T22:07:48.002254+02:00[Europe/Berlin]")
 public class Pair {
     private String name = "";
     private String value = "";

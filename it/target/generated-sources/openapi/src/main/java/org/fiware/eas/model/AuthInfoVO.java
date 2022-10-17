@@ -31,7 +31,7 @@ import org.fiware.eas.model.AuthTypeVO;
  * -| \&quot;Authentication information to be used by the providers. Its a generic object that needs to be defined for each auth-type.\&quot;
  */
 @ApiModel(description = "-| \"Authentication information to be used by the providers. Its a generic object that needs to be defined for each auth-type.\"")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T13:33:54.069821+02:00[Europe/Berlin]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2022-10-14T22:07:47.821858+02:00[Europe/Berlin]")
 public class AuthInfoVO extends HashMap<String, Object> {
   public static final String SERIALIZED_NAME_AUTH_TYPE = "authType";
   @SerializedName(SERIALIZED_NAME_AUTH_TYPE)
