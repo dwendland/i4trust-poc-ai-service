@@ -4,14 +4,14 @@ Implementation of a Proof-of-Concept of an AI service provisioned on a marketpla
 ## Introduction
 The aim of this PoC is to allow an AI service provider to offer a service on a public marketplace, where a service consuming party can acquire access to this offer, inject input data into it and receive predictions resulting from the inference with a trained AI model.
 
-The AI service is providing real-time prediction and by means of having a Context Broker deployed in the offered service, the data provisioning will be in real-time from the data source(s) to the AI model and respectively publishing the results of the predictions to the consumer application via a Context Broker on the consumer side. 
+The AI service is providing prediction and by means of having a Context Broker deployed in the offered service, the data provisioning will be from the data source(s) to the AI model and respectively publishing the results of the predictions to the consumer application via a Context Broker on the consumer side. 
 
 ## Architecture
 This PoC implements the following architecture: 
 
 ![architecture](/doc/Architecture%20diagrams-Usage%20of%20AI%20service.jpg)
 
-The architecture below illustrates the environments corresponding to each participant and the components that are used to enable the real-time inference.
+The architecture below illustrates the environments corresponding to each participant and the components that are used to enable the inference.
 
 **Use case:** Prediction of animal activity (e.g grazing, walking, stand-up,..) based on its x, y, z coordinates and the observed ambient temperature.
 
@@ -22,7 +22,7 @@ TODO
 
 # Subscriptions setup
 
-The main goal of te subscription is to allow the automated data exchange between the participants on particular attributes. That will enable the real-time AI inference. 
+The main goal of te subscription is to allow the automated data exchange between the participants on particular attributes. That will enable the AI inference. 
 
 In this use case, there are three subscriptions to be setup: 
 

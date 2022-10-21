@@ -1,6 +1,6 @@
 # ML API as a service
 
-The ML model is deployed via REST API to be consumed for real-time inference. 
+The ML model is deployed via REST API to be consumed for AI inference. 
 The implementation of the ML API relies on [FastAPI](https://fastapi.tiangolo.com/).
 
 FastAPI is a modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
